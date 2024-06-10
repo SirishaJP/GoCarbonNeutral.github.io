@@ -1,0 +1,130 @@
+{
+  "tram": [
+    {
+      "vehicle_id": "TRM001",
+      "fuel_type": "Electricity",
+      "distance_km": 15000,
+      "energy_consumption_kWh": 5000
+    },
+    {
+      "vehicle_id": "TRM002",
+      "fuel_type": "Electricity",
+      "distance_km": 12000,
+      "energy_consumption_kWh": 4000
+    },
+    {
+      "vehicle_id": "TRM003",
+      "fuel_type": "Electricity",
+      "distance_km": 14000,
+      "energy_consumption_kWh": 4500
+    },
+    {
+      "vehicle_id": "TRM004",
+      "fuel_type": "Electricity",
+      "distance_km": 16000,
+      "energy_consumption_kWh": 5500
+    },
+    {
+      "vehicle_id": "TRM005",
+      "fuel_type": "Electricity",
+      "distance_km": 17000,
+      "energy_consumption_kWh": 4800
+    }
+  ],
+  "bus": [
+    {
+      "vehicle_id": "BS001",
+      "fuel_type": "Diesel",
+      "distance_km": 20000,
+      "fuel_consumption_liters": 3000
+    },
+    {
+      "vehicle_id": "BS002",
+      "fuel_type": "Diesel",
+      "distance_km": 18000,
+      "fuel_consumption_liters": 2800
+    },
+    {
+      "vehicle_id": "BS003",
+      "fuel_type": "Diesel",
+      "distance_km": 18000,
+"fuel_consumption_liters": 2700
+},
+{
+"vehicle_id": "BS004",
+"fuel_type": "Diesel",
+"distance_km": 22000,
+"fuel_consumption_liters": 3200
+},
+{
+"vehicle_id": "BS005",
+"fuel_type": "Diesel",
+"distance_km": 19000,
+"fuel_consumption_liters": 2900
+}
+],
+"ferry": [
+{
+"vehicle_id": "FRY001",
+"fuel_type": "Bunker Fuel",
+"distance_km": 5000,
+"fuel_consumption_liters": 1200
+},
+{
+"vehicle_id": "FRY002",
+"fuel_type": "Bunker Fuel",
+"distance_km": 6000,
+"fuel_consumption_liters": 1400
+},
+{
+"vehicle_id": "FRY003",
+"fuel_type": "Bunker Fuel",
+"distance_km": 5500,
+"fuel_consumption_liters": 1300
+},
+{
+"vehicle_id": "FRY004",
+"fuel_type": "Bunker Fuel",
+"distance_km": 6500,
+"fuel_consumption_liters": 1500
+},
+{
+"vehicle_id": "FRY005",
+"fuel_type": "Bunker Fuel",
+"distance_km": 5200,
+"fuel_consumption_liters": 1250
+}
+],
+"train": [
+{
+"vehicle_id": "TRN001",
+"fuel_type": "Electricity",
+"distance_km": 25000,
+"energy_consumption_kWh": 8000
+},
+{
+"vehicle_id": "TRN002",
+"fuel_type": "Electricity",
+"distance_km": 22000,
+"energy_consumption_kWh": 7000
+},
+{
+"vehicle_id": "TRN003",
+"fuel_type": "Electricity",
+"distance_km": 27000,
+"energy_consumption_kWh": 8500
+},
+{
+"vehicle_id": "TRN004",
+"fuel_type": "Electricity",
+"distance_km": 24000,
+"energy_consumption_kWh": 7500
+},
+{
+"vehicle_id": "TRN005",
+"fuel_type": "Electricity",
+"distance_km": 26000,
+"energy_consumption_kWh": 8200
+}
+]
+}

@@ -1,0 +1,34 @@
+
+tram vehicles:
+TRM001: 2500.00 kg CO2
+TRM002: 2000.00 kg CO2
+TRM003: 2250.00 kg CO2
+TRM004: 2750.00 kg CO2
+TRM005: 2400.00 kg CO2
+Total CO2 emissions for tram: 11900.00 kg CO2
+
+bus vehicles:
+BS001: 8040.00 kg CO2
+BS002: 7504.00 kg CO2
+BS003: 7236.00 kg CO2
+BS004: 8576.00 kg CO2
+BS005: 7772.00 kg CO2
+Total CO2 emissions for bus: 39128.00 kg CO2
+
+ferry vehicles:
+FRY001: 0.00 kg CO2
+FRY002: 0.00 kg CO2
+FRY003: 0.00 kg CO2
+FRY004: 0.00 kg CO2
+FRY005: 0.00 kg CO2
+Total CO2 emissions for ferry: 0.00 kg CO2
+
+train vehicles:
+TRN001: 4000.00 kg CO2
+TRN002: 3500.00 kg CO2
+TRN003: 4250.00 kg CO2
+TRN004: 3750.00 kg CO2
+TRN005: 4100.00 kg CO2
+Total CO2 emissions for train: 19600.00 kg CO2
+
+Total CO2 emissions for all vehicles: 70628.00 kg CO2
